@@ -1,0 +1,39 @@
+{
+  "_id":{"$oid":"000000000000000000000001"},
+  "name":"Bob",
+  "photo":"http://myhairstylespictures.com/wp-content/uploads/2014/03/short-professional-male-hairstyles-photo.jpg",
+  "spouse":{"name":"Sara", "photo":"http://media-cache-ak0.pinimg.com/736x/5a/a6/99/5aa69946dc23cd5c66a79f659a76f3ba.jpg"},
+  "cash":10000.00,
+  "assets":[
+      {"name":"Ring", "photo":"http://www.houstondiamondoutlet.com/images/diamond_rings.jpg", "value":4000},
+      {"name":"House", "photo":"http://youveneverheardofjentidwell.files.wordpress.com/2012/03/house.jpg", "value":62000},
+      {"name":"Car", "photo":"http://www.picturesnew.com/media/images/car-image.jpg", "value":17000}
+    ],
+  "results":{"wins":3, "losses":7}
+}
+{
+  "_id":{"$oid":"000000000000000000000002"},
+  "name":"Alice",
+  "photo":"http://stlpwa.org/images/site/home-slideshow/professional-woman-1.jpg",
+  "spouse":{"name":"Frank", "photo":"http://pubpages.unh.edu/~kav245/Project/manemployee.jpg"},
+  "cash":25000.00,
+  "assets":[
+      {"name":"Dog", "photo":"http://kp-dev.com/wp-content/uploads/2013/08/Pretty-Dogs-in-Garden-dogs-13905929-1920-1200.jpg", "value":3000},
+      {"name":"iMac", "photo":"http://images.amazon.com/images/G/01/electronics/apple/apple-imac2011_q2-270-main-lg.jpg", "value":600},
+      {"name":"Children", "photo":"http://photo.elsoar.com/wp-content/images/Big-group-of-happy-children-with-balloons.jpg", "value":500}
+    ],
+  "results":{"wins":6, "losses":2}
+}
+{
+  "_id":{"$oid":"000000000000000000000003"},
+  "name":"Janet",
+  "photo":"http://www.dereksmith.com/wp-content/uploads/2011/12/female-fashion-professional.jpg",
+  "spouse":{"name":"Bill", "photo":"http://indianmalemodels.files.wordpress.com/2013/03/101.jpg?w=800"},
+  "cash":10000.00,
+  "assets":[
+      {"name":"Love", "photo":"http://images6.fanpop.com/image/photos/33300000/Love-love-33308236-2560-1600.jpg", "value":1200},
+      {"name":"Kidneys", "photo":"http://www.urologyhealth.org/urology/articles/images/anatomy_AdrenalsKidneys_Anterior.jpg", "value":7000},
+      {"name":"Parents", "photo":"http://www.smilestones.org/Images/parents.jpg", "value":47000}
+    ],
+  "results":{"wins":8, "losses":1}
+}
