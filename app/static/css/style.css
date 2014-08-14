@@ -6,7 +6,11 @@
 }
 
 body{
+<<<<<<< HEAD
   background-image: url();
+=======
+  background-image: url(/img/node.png);
+>>>>>>> 4a3e479e8ae881cc03329a072bf6515a38284e00
   background-size: cover;
 }
 

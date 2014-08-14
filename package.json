@@ -27,7 +27,11 @@
   "author": "JuanJob <jsamesub@gmail.com>",
   "license": "MIT",
   "bugs": {
+<<<<<<< HEAD
     "url": "https://github.com/jjsub/derby.git"
+=======
+    "url": "https://github.com/jjsub/derby.git""
+>>>>>>> 4a3e479e8ae881cc03329a072bf6515a38284e00
   },
   "homepage": "https://github.com/jjsub/derby.git",
   "dependencies": {
