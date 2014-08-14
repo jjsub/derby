@@ -1,0 +1,27 @@
+extends ../shared/template
+block content
+  h2 Fight!
+   table 
+      thead
+        tr
+          th Name
+          th Spouse
+          th Photo
+          th Cash
+          th Assets
+          th Results
+   tbody
+     each gambler in gamblers
+       tr
+         td= gambler.name
+         td= gambler.spouse
+         td 
+            .photo(style='background-image:url("#{gambler.photo}");')
+         td= gambler.cash
+         td= gambler.assets
+         td= gambler.results
+
+
+
+block scripts
+  script(src='')
